@@ -1,0 +1,16 @@
+{
+  "name": "test_zapi_client",
+  "version": "1.0.0",
+  "description": "Proyecto para consumir el API Zephyr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "zephyr_api": "0.0.8"
+  }
+}
